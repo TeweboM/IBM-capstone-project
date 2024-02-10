@@ -1,5 +1,3 @@
 # IBM-capstone-project
 IBM capstone project for IBM Data Science Professional Specialization Course
-This capstone project encloses different projects which include web scraping, SQL query, folium geodata visualization, plotly interactive dashboard, predictive data analysis using different data models in Sk-learn liberary.
-
-The data source is based on Space X Falcon 9 landing history.
+This capstone project encloses different activities which include data collection from the web (web scraping), exploratory data analysis, exploratory data visualization, load the data to SQL database and explore the database using sql queries, visual analytics with folium geodata visualization, developing plotly interactive dashboard and produce predictive data model to predict the success of Space X launchs.
